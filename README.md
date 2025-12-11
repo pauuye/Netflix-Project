@@ -15,7 +15,12 @@ Bank-Project/
 │       ├── Duplicate.png
 │       └── Subs-Type.png
 ├── Excel/
-│     └── TBA
+│     ├── README.md
+│     ├── Netflix_Churn.xlsx
+│     └── Screenshots
+│       ├── Dashboard.png
+│       ├── Pivot Tables.png
+│       └── Summary.png
 │
 └── PowerBI/
       └── TBA

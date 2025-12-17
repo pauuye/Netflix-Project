@@ -17,7 +17,7 @@ Netflix-Project/
 │
 ├── MySQL/
 │     ├── README.md
-│     ├── Bank_SQL_EDA.sql
+│     ├── Netflix_EDA.sql
 │     └── Screenshots/
 │       ├── Churned by Age-Bracket.png
 │       ├── Churned by Device.png

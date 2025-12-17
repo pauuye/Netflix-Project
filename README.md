@@ -25,7 +25,7 @@ Netflix-Project/
 │       └── Subs-Type.png
 │
 ├── Excel/
-│     ├── README.md/
+│     ├── README.md
 │     ├── Netflix_Churn.xlsx
 │     └── Screenshots
 │       ├── Dashboard.png
@@ -33,7 +33,7 @@ Netflix-Project/
 │       └── Summary.png
 │
 └── PowerBI/
-      ├── TBA
+      ├── README.md
       ├── Churned Analysis.pbix
       └── Screenshots/
          ├── Dashboard.png

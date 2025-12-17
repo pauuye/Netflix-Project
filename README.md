@@ -12,6 +12,8 @@ This repository demonstrates end-to-end analytical workflow, including data expl
 ```
 Netflix-Project/
 │
+├── README.md 
+│
 ├── data/
 │     └── netflix_customer_churn.csv
 │
